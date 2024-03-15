@@ -1,3 +1,3 @@
 Get started
 
-Need to service.yml for Mysql database
+Need to build service.yml for Mysql database
